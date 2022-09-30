@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,700;1,300;1,400;1,500&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+}
+
+.container {
+    display: block;
+    position: absolute;
+    left: 42%;
+    top: 10%;
+}
+
+.number h1 {
+    font-size: 75px;
+    margin-left: 10%;
+}
+
+.number p {
+    margin-top: -7%;
+    margin-bottom: 30%;
+    font-size: 14px;
+    font-weight: bolder;
+    margin-left: 10%;
+}
+
+.number span {
+    color: #29af6f;
+    margin-left: 3%;
+}
+
+.welcome h2 {
+    color: #297EAF;
+    font-size: 30px;
+    margin-bottom: 3%;
+    text-align: center;
+    margin-left: -5;
+}
+
+.welcome p {
+    text-align: center;
+    color: #a7a7a7;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.button {
+    margin-top: 13%;
+}
+
+.Number {
+    padding: 5px 75px;
+    background-color: #767676;
+    border: none;
+    margin-top: 4%;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.multiply {
+    padding: 5px 96px;
+    background-color: #297EAF;
+    border: none;
+    margin-top: 4%;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.subtract {
+    padding: 5px 92px;
+    background-color: #263238;
+    border: none;
+    margin-top: 4%;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.add {
+    padding: 5px 106px;
+    background-color: #29AF6F;
+    border: none;
+    margin-top: 4%;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.divide {
+    padding: 5px 99px;
+    background-color: #3B275C;
+    border: none;
+    margin-top: 4%;
+    color: #fff;
+    border-radius: 5px;
+}
